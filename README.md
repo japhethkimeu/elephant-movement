@@ -1,1 +1,3 @@
-Climate data analysis in R
+CMIP5 climate data analysis in R
+- Temperature
+-Precipitation
