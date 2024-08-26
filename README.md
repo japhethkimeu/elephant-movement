@@ -1,4 +1,4 @@
-Exploring Elephant Movement Patterns Using Geospatial Data
+# Exploring Elephant Movement Patterns Using Geospatial Data
 This project aims to identify the factors motivating the movement of African Elephants in Kunene and Erongo regions of Namibia using various geospatial data. The data includes
 - Topography (slope)
 - NDVI as a proxy for vegetation health
